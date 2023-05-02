@@ -62,9 +62,7 @@ fun HomeScreen(){
                 meditation = Meditation(
                         title = "Daily Thought",
                         R.drawable.ic_play,
-
                         LightRed,
-
                         DarkRed,
                         MediumRed,
 
