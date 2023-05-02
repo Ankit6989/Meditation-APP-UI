@@ -6,7 +6,7 @@ Meditation APP UI is just an simple UI which I made to Practice my jetpackcompos
 
 I was inspired after seeing a design from dribble and tried my best to recreate it.
 
-If i will getmsome motivation, I will develop this UI in to an complete APP in future.
+If I get some motivation, I will develop this UI in to an complete APP in future.
 
 ## Screenshots
 
