@@ -12,10 +12,10 @@ If I get some motivation, I will develop this UI in to an complete APP in future
 
 ### 1)Main Screen UI
 
-<img src="https://user-images.githubusercontent.com/114300894/235734265-c092c75a-3b1d-4bd9-b0d2-814a6c7d9727.jpeg" width="400">
+<img src="https://user-images.githubusercontent.com/114300894/235734265-c092c75a-3b1d-4bd9-b0d2-814a6c7d9727.jpeg" width="200">
 
 
-<img src="https://user-images.githubusercontent.com/114300894/235735273-9f962157-868b-4a9f-b726-4acb0ff89a9d.jpeg" width="400">
+<img src="https://user-images.githubusercontent.com/114300894/235735273-9f962157-868b-4a9f-b726-4acb0ff89a9d.jpeg" width="200">
 
 
 
