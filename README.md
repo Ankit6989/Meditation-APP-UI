@@ -2,11 +2,7 @@
 
 ## Project Description
 
-Meditation APP UI is just an simple UI which I made to Practice my jetpackcompose skills for designing UI.
-
-I was inspired after seeing a design from dribble and tried my best to recreate it.
-
-If I get some motivation, I will develop this UI in to an complete APP in future.
+The Meditation App UI project is a mobile application UI designed to provide users with a visually appealing and intuitive interface for practicing meditation and mindfulness. The UI design takes inspiration from a Dribble shot and incorporates modern design principles, making use of Kotlin, Jetpack Compose, and the Android SDK.
 
 ## Screenshots
 
